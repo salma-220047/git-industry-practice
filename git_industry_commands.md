@@ -354,3 +354,76 @@ git describe
 
 Screenshot
 ![Group4](screenshots/group4.png)
+
+# GROUP 5: File Tracking Commands
+
+## 1. git add
+
+Command Name:
+git add
+
+Syntax:
+git add <file>
+
+Purpose:
+Adds a file to the staging area.
+
+Example:
+git add file1.txt
+
+Screenshot:
+![git add](screenshots/group5.png)
+
+
+## 2. git add .
+
+Command Name:
+git add .
+
+Syntax:
+git add .
+
+Purpose:
+Adds all files in the current directory to staging.
+
+Example:
+git add .
+
+Screenshot:
+![git add dot](screenshots/group5.png)
+
+
+## 3. git rm
+
+Command Name:
+git rm
+
+Syntax:
+git rm <file>
+
+Purpose:
+Removes a file from the repository.
+
+Example:
+git rm file1.txt
+
+Screenshot:
+![git rm](screenshots/group5.png)
+
+
+## 4. git mv
+
+Command Name:
+git mv
+
+Syntax:
+git mv <old-name> <new-name>
+
+Purpose:
+Renames or moves a file.
+
+Example:
+git mv file2.txt newfile.txt
+
+Screenshot:
+![git mv](screenshots/group5.png)
