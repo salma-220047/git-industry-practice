@@ -270,3 +270,87 @@ Screenshot
 
 ---
 
+## Group 4 – Advanced Inspection Commands
+
+### Command
+git diff --staged
+
+Syntax
+git diff --staged
+
+Purpose
+Shows staged changes before commit.
+
+Example
+git diff --staged
+
+Screenshot
+![Group4](screenshots/group4.png)
+
+---
+
+### Command
+git blame
+
+Syntax
+git blame filename
+
+Purpose
+Shows who modified each line in a file.
+
+Example
+git blame README.md
+
+Screenshot
+![Group4](screenshots/group4.png)
+
+---
+
+### Command
+git reflog
+
+Syntax
+git reflog
+
+Purpose
+Shows history of HEAD movements.
+
+Example
+git reflog
+
+Screenshot
+![Group4](screenshots/group4.png)
+
+---
+
+### Command
+git shortlog
+
+Syntax
+git shortlog
+
+Purpose
+Shows commit summary by author.
+
+Example
+git shortlog
+
+Screenshot
+![Group4](screenshots/group4.png)
+
+---
+
+### Command
+git describe
+
+Syntax
+git describe
+
+Purpose
+Shows nearest tag for a commit.
+
+Example
+git describe
+
+Screenshot
+![Group4](screenshots/group4.png)
