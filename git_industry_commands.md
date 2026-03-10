@@ -182,3 +182,91 @@ git status
 Screenshot
 
 ![Group2](screenshots/group2.png)
+
+## Group 3 – Repository Inspection Commands
+
+### Command
+git status
+
+Syntax
+git status
+
+Purpose
+Shows current status of repository.
+
+Example
+git status
+
+Screenshot
+![Group3](screenshots/group31.png)
+
+---
+
+### Command
+git log
+
+Syntax
+git log
+
+Purpose
+Shows commit history.
+
+Example
+git log
+
+Screenshot
+![Group3](screenshots/group31.png)
+
+---
+
+### Command
+git log --oneline
+
+Syntax
+git log --oneline
+
+Purpose
+Shows commit history in short format.
+
+Example
+git log --oneline
+
+Screenshot
+![Group3](screenshots/group32.png)
+
+---
+
+### Command
+git show
+
+Syntax
+git show commit_id
+
+Purpose
+Shows details of a specific commit.
+
+Example
+git show HEAD
+
+Screenshot
+![Group3](screenshots/group32.png)
+
+---
+
+### Command
+git diff
+
+Syntax
+git diff
+
+Purpose
+Shows changes between file versions.
+
+Example
+git diff
+
+Screenshot
+![Group3](screenshots/group32.png)
+
+---
+
